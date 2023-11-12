@@ -3,5 +3,8 @@
     "Cacheable",
     "precache",
     "precaching"
+  ],
+  "cSpell.enableFiletypes": [
+    "!javascript"
   ]
 }
